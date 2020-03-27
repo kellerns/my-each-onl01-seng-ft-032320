@@ -12,6 +12,5 @@ def my_each(array) # put argument(s) here
     new_array
   else
   end
-  
-  # code here
+ 
 end
