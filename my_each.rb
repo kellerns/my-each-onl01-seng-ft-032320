@@ -5,7 +5,7 @@ def my_each(array) # put argument(s) here
     new_array = []
     
     while i < array.length
-      yield
+      yield array[i]
       new_array << array[i]
       i += 1
     end
