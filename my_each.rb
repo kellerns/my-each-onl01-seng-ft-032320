@@ -10,5 +10,6 @@ def my_each(array) # put argument(s) here
   else
   end
   
+  array
   # code here
 end
